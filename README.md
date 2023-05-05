@@ -1,1 +1,1 @@
-# grains.product.info
+Grains product roadmap > [see detail](grains-roadmap.md)
